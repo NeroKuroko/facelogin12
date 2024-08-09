@@ -1,0 +1,48 @@
+com.example.face_login.app-jetified-window-1.0.0-beta04-0 C:\Users\leona\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+com.example.face_login.app-jetified-appcompat-resources-1.3.0-1 C:\Users\leona\.gradle\caches\transforms-3\0526d10b718f4a3920e5121161b066f2\transformed\jetified-appcompat-resources-1.3.0\res
+com.example.face_login.app-core-1.10.1-2 C:\Users\leona\.gradle\caches\transforms-3\0b9c903fef8d2eb2a269c36999ef4a74\transformed\core-1.10.1\res
+com.example.face_login.app-jetified-window-java-1.0.0-beta04-3 C:\Users\leona\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.face_login.app-lifecycle-runtime-2.3.1-4 C:\Users\leona\.gradle\caches\transforms-3\25a884faa36a531a9e5f369d596bbf88\transformed\lifecycle-runtime-2.3.1\res
+com.example.face_login.app-jetified-digital-ink-recognition-18.0.0-5 C:\Users\leona\.gradle\caches\transforms-3\35581af1c8572be0aceaf47fb5788916\transformed\jetified-digital-ink-recognition-18.0.0\res
+com.example.face_login.app-jetified-entity-extraction-16.0.0-beta4-6 C:\Users\leona\.gradle\caches\transforms-3\44c36c247e7ae3b513c862e24d25f174\transformed\jetified-entity-extraction-16.0.0-beta4\res
+com.example.face_login.app-appcompat-1.3.0-7 C:\Users\leona\.gradle\caches\transforms-3\482eedf90bc2819ea64d731948a793f2\transformed\appcompat-1.3.0\res
+com.example.face_login.app-jetified-play-services-base-18.1.0-8 C:\Users\leona\.gradle\caches\transforms-3\4b9d22533576529904e76f8ef61c175c\transformed\jetified-play-services-base-18.1.0\res
+com.example.face_login.app-jetified-work-multiprocess-2.7.0-9 C:\Users\leona\.gradle\caches\transforms-3\586f072b5cff9f2633357f31fe543fbf\transformed\jetified-work-multiprocess-2.7.0\res
+com.example.face_login.app-work-runtime-2.7.0-10 C:\Users\leona\.gradle\caches\transforms-3\78a66d6911c9432edd3a2f8420e8d502\transformed\work-runtime-2.7.0\res
+com.example.face_login.app-jetified-translate-17.0.0-11 C:\Users\leona\.gradle\caches\transforms-3\8a74273b8d4dfc70bcf031439183781e\transformed\jetified-translate-17.0.0\res
+com.example.face_login.app-jetified-play-services-basement-18.1.0-12 C:\Users\leona\.gradle\caches\transforms-3\95e76454cff392b3dff66e1259c7e57f\transformed\jetified-play-services-basement-18.1.0\res
+com.example.face_login.app-lifecycle-viewmodel-2.3.1-13 C:\Users\leona\.gradle\caches\transforms-3\9c5a1ad8303f5cfa3b3a55bb4f512f70\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.face_login.app-fragment-1.3.4-14 C:\Users\leona\.gradle\caches\transforms-3\9f09c4dbf58c437a86a926bdf2f21c4c\transformed\fragment-1.3.4\res
+com.example.face_login.app-browser-1.5.0-15 C:\Users\leona\.gradle\caches\transforms-3\a3fbb37dd5ef93c98bc80ddf0289d0af\transformed\browser-1.5.0\res
+com.example.face_login.app-jetified-annotation-experimental-1.3.0-16 C:\Users\leona\.gradle\caches\transforms-3\ae329bc8a0eb87982c4fe41e3ec5da7f\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.face_login.app-jetified-startup-runtime-1.0.0-17 C:\Users\leona\.gradle\caches\transforms-3\cce2e8c738f9061b346cf6b990ca9613\transformed\jetified-startup-runtime-1.0.0\res
+com.example.face_login.app-jetified-savedstate-1.1.0-18 C:\Users\leona\.gradle\caches\transforms-3\e85919428ce6d8e0cf79f2a344f1e6d9\transformed\jetified-savedstate-1.1.0\res
+com.example.face_login.app-work-runtime-ktx-2.7.0-19 C:\Users\leona\.gradle\caches\transforms-3\fde804bd4ac90191b0cafb58c84d7818\transformed\work-runtime-ktx-2.7.0\res
+com.example.face_login.app-debug-20 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\android\app\src\debug\res
+com.example.face_login.app-main-21 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\android\app\src\main\res
+com.example.face_login.app-pngs-22 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\app\generated\res\pngs\debug
+com.example.face_login.app-resValues-23 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\app\generated\res\resValues\debug
+com.example.face_login.app-rs-24 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\app\generated\res\rs\debug
+com.example.face_login.app-mergeDebugResources-25 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.face_login.app-mergeDebugResources-26 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.face_login.app-merged_res-27 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\app\intermediates\merged_res\debug
+com.example.face_login.app-packaged_res-28 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\camera_android\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-29 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\flutter_bluetooth_serial\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-30 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-31 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_barcode_scanning\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-32 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_commons\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-33 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_digital_ink_recognition\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-34 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_entity_extraction\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-35 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_face_detection\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-36 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_image_labeling\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-37 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_language_id\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-38 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_object_detection\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-39 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_pose_detection\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-40 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_selfie_segmentation\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-41 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_smart_reply\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-42 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_text_recognition\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-43 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\google_mlkit_translation\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-44 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\path_provider_android\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-45 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\sqflite\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-46 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\tflite_flutter\intermediates\packaged_res\debug
+com.example.face_login.app-packaged_res-47 C:\Users\leona\OneDrive\Documentos\UTSJR\CUATRIMESTRE 9\DISPOSITIVOS INTELIGENTES - HECTOR\PARCIAL 3\face_login\build\url_launcher_android\intermediates\packaged_res\debug
